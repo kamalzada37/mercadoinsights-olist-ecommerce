@@ -1,5 +1,8 @@
 # Mercado Insights: Brazilian E-Commerce Data Analysis
 
+
+<img width="1497" height="714" alt="Untitled" src="https://github.com/user-attachments/assets/093be1a2-08fc-45ac-8101-dbd096e6fd53" />
+
 Project Overview
 This project analyzes the [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) using **PostgreSQL** and **Python**.  
 It demonstrates skills in **data visualization, SQL analysis, and Python-Postgres integration**.  
@@ -122,3 +125,4 @@ This will:
 
 
 * Save results into outputs/ as CSV files.
+
